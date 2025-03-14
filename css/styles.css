@@ -488,7 +488,6 @@ color: #fff;
 display: inline;
 cursor: pointer;
 border: none;
-gap: 16px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -496,6 +495,7 @@ align-items: center;
 
 .footer-btn-icon {
 margin-left: 16px;
+fill: #fff;
 } 
 
 .footer_icons_list_email {
